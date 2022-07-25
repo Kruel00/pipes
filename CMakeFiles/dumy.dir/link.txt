@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/dumy.dir/dumy.c.o  -o dumy 

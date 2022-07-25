@@ -1,0 +1,7 @@
+/home/jcastorena/proyectosC/build/CMakeFiles/edit_cache.dir
+/home/jcastorena/proyectosC/build/CMakeFiles/popen3.dir
+/home/jcastorena/proyectosC/build/CMakeFiles/plainpopen.dir
+/home/jcastorena/proyectosC/build/CMakeFiles/testprog.dir
+/home/jcastorena/proyectosC/build/CMakeFiles/dumy.dir
+/home/jcastorena/proyectosC/build/CMakeFiles/rebuild_cache.dir
+/home/jcastorena/proyectosC/build/CMakeFiles/pipes.dir
